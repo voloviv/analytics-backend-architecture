@@ -1,3 +1,3 @@
-Analytics system architecture
+#Analytics system architecture
 
 High level design of a highly scalable analytics platform.
